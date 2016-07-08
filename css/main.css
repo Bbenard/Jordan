@@ -1,0 +1,32 @@
+body{
+margin:0; 
+width: 100%;  
+}
+header{
+    background-color: #212933;
+    height: 200px;
+    text-align: center;
+    color: #F39823;
+    width: 100%;
+}
+
+.maincontent{
+height: 1200px;
+background-image: url(../images/bg.jpg);
+background-size:cover;
+width: 100%;
+}
+.content{
+height: 400px;
+width: 100%;
+padding-top:200px;
+color: white;
+   
+}
+.clear{
+    clear: both;
+}
+.Tel{
+    text-align: center;
+    background-color: #878D8D;
+}
