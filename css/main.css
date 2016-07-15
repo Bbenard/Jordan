@@ -11,9 +11,9 @@ background-color:
 header{
     background-color: #212933;
     height: 100px;
-    text-align: center;
     color: #F39823;
-    width: 100%;
+    font-size: 20px;
+
 }
 
 .maincontent{
