@@ -13,5 +13,9 @@
     text-align: center;
     color: aliceblue;
     background-color: #87898B;
-      opacity: 0.9;
+    opacity: 0.9;
+    margin-top: 20px;
+}
+.b{
+    border-left:1px solid #fff; 
 }
