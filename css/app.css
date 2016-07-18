@@ -18,4 +18,8 @@
 }
 .b{
     border-left:1px solid #fff; 
+ height:230px;
+}
+.gen{
+   color: aliceblue; 
 }

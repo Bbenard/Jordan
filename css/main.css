@@ -39,8 +39,9 @@ color: white;
 }
 .footer{
     background-color: #5D6665;
-    height: 200px;
-    padding:1px
+    height:230px;
+    max-width:100%;
+    
 }
 .fol{
    background-color: #878D8D;
