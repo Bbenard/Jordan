@@ -17,11 +17,10 @@ header{
 }
 
 .maincontent{
-height: 500px;
 background-color: #87898B;
-    opacity: 0.9;
+opacity: 0.9;
 
-width: 100%;
+
 }
 .content{
 height: 400px;

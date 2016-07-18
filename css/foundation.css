@@ -938,7 +938,11 @@ button {
   .medium-collapse .row,
   .expanded.row .medium-collapse.row {
     margin-left: 0;
-    margin-right: 0; }
+    margin-right: 0;
+      width: 70%;
+      align-content: center;
+      text-align: center
+    }
   .medium-uncollapse > .column, .medium-uncollapse > .columns {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem; }
