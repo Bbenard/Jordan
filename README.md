@@ -4,3 +4,10 @@ PSDTHTML ASSIGNMENT
 
 **About the project:**PSDTHTML ASSIGNMENT
 
+**Tools Applied:-**
+
+Html
+
+
+
+
